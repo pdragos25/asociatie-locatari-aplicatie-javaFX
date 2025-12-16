@@ -1,0 +1,17 @@
+[ {
+  "luna" : 11,
+  "an" : 2025,
+  "liniiCheltuiala" : [ {
+    "nume" : "Apa Rece Totală",
+    "valoareTotala" : 5000.0,
+    "modImpartire" : "PERSOANA"
+  }, {
+    "nume" : "Încălzire Totală",
+    "valoareTotala" : 10000.0,
+    "modImpartire" : "SUPRAFATA"
+  }, {
+    "nume" : "Salariu Administrator",
+    "valoareTotala" : 1500.0,
+    "modImpartire" : "APARTAMENT"
+  } ]
+} ]

@@ -1,0 +1,43 @@
+[ {
+  "id" : 1,
+  "bloc" : "A1",
+  "scara" : 1,
+  "numar" : 1,
+  "suprafata" : 52.5
+}, {
+  "id" : 2,
+  "bloc" : "A1",
+  "scara" : 1,
+  "numar" : 2,
+  "suprafata" : 60.0
+}, {
+  "id" : 3,
+  "bloc" : "B2",
+  "scara" : 2,
+  "numar" : 8,
+  "suprafata" : 48.3
+}, {
+  "id" : 4,
+  "bloc" : "B2",
+  "scara" : 2,
+  "numar" : 10,
+  "suprafata" : 72.0
+}, {
+  "id" : 5,
+  "bloc" : "A1",
+  "scara" : 3,
+  "numar" : 23,
+  "suprafata" : 60.0
+}, {
+  "id" : 6,
+  "bloc" : "A1",
+  "scara" : 1,
+  "numar" : 3,
+  "suprafata" : 60.0
+}, {
+  "id" : 7,
+  "bloc" : "B2",
+  "scara" : 2,
+  "numar" : 23,
+  "suprafata" : 59.2
+} ]

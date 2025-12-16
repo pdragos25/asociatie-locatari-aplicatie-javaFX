@@ -1,0 +1,41 @@
+[ {
+  "id" : 1,
+  "idApartament" : 1,
+  "nume" : "Ionescu",
+  "prenume" : "Maria"
+}, {
+  "id" : 2,
+  "idApartament" : 1,
+  "nume" : "Ionescu",
+  "prenume" : "Alex"
+}, {
+  "id" : 3,
+  "idApartament" : 2,
+  "nume" : "Popescu",
+  "prenume" : "Andrei"
+}, {
+  "id" : 4,
+  "idApartament" : 2,
+  "nume" : "Popescu",
+  "prenume" : "Ioana"
+}, {
+  "id" : 5,
+  "idApartament" : 3,
+  "nume" : "Georgescu",
+  "prenume" : "Mihai"
+}, {
+  "id" : 6,
+  "idApartament" : 4,
+  "nume" : "Dumitru",
+  "prenume" : "Elena"
+}, {
+  "id" : 7,
+  "idApartament" : 5,
+  "nume" : "Ionescu",
+  "prenume" : "Florin"
+}, {
+  "id" : 8,
+  "idApartament" : 6,
+  "nume" : "Ionescu",
+  "prenume" : "Florin"
+} ]
